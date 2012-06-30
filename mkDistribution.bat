@@ -26,8 +26,6 @@ copy doc\readme.rtf current\doc
 copy doc\Changes.txt current\doc
 copy doc\Copying.txt current\doc
 copy SharpZipLib.chm current\doc
-copy installGAC.bat current
-copy uninstallGAC.bat current
 
 samples\cs\bin\sz -rc current\SharpZipLib.zip current\*.dll
 

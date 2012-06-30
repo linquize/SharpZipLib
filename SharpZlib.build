@@ -108,7 +108,6 @@
 				debug="${debug}"
 				checked="${checked}"
 				define="${build.defines}"
-				keyfile="ICSharpCode.SharpZipLib.key"
 		  doc="${build.output.dir}/ICSharpCode.SharpZipLib.xml"
 		>
 
