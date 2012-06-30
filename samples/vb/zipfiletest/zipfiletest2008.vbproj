@@ -12,9 +12,6 @@
     <StartupObject />
     <NoStdLib />
     <NoConfig />
-    <RunPostBuildEvent>OnSuccessfulBuild</RunPostBuildEvent>
-    <PreBuildEvent />
-    <PostBuildEvent />
     <RemoveIntegerChecks>False</RemoveIntegerChecks>
     <OptionExplicit>On</OptionExplicit>
     <OptionStrict>Off</OptionStrict>

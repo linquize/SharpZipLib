@@ -8,14 +8,11 @@
     <AssemblyName>minibzip2</AssemblyName>
     <OutputType>WinExe</OutputType>
     <ApplicationIcon />
-    <WarningLevel />
+    <WarningLevel>4</WarningLevel>
     <NoWarn />
     <StartupObject />
     <NoStdLib />
     <NoConfig />
-    <RunPostBuildEvent>OnSuccessfulBuild</RunPostBuildEvent>
-    <PreBuildEvent />
-    <PostBuildEvent />
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <DebugSymbols>True</DebugSymbols>

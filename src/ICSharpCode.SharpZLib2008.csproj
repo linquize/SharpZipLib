@@ -12,9 +12,6 @@
     <StartupObject />
     <NoStdLib>False</NoStdLib>
     <NoConfig>False</NoConfig>
-    <RunPostBuildEvent>OnOutputUpdated</RunPostBuildEvent>
-    <PreBuildEvent />
-    <PostBuildEvent />
     <DocumentationFile>..\bin\ICSharpCode.SharpZipLib.xml</DocumentationFile>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
